@@ -42,3 +42,18 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.instagram.com/abdul_rehmanzzz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://www.youtube.com/@vipsharif" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://blacademyworkspace.slack.com/team/U08QNM3EK8C" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
+  </a>
+</div>
+
+###
